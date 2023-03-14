@@ -1,6 +1,6 @@
 # Hardhat Smart Contract deployed w/ Thirdweb
 
-This project demonstrates a basic Hardhat smart contract. It comes with a sample contract, a test for that contract, and a script that deploys that contract. However with Thirdweb, no scripts are needed.
+This project demonstrates a basic Hardhat smart contract. It comes with a sample contract, a test for that contract, and a script that deploys that contract. However, with Thirdweb, no scripts are needed.
 
 To set up a simple Hardhat project follow these steps:
 
